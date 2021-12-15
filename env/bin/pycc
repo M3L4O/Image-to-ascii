@@ -1,3 +1,0 @@
-#!/home/melao/Documentos/Codes/mkcv2/env/bin/python
-from numba.pycc import main
-main()
